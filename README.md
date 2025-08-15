@@ -15,7 +15,7 @@ Defaults:
 - Employer API key: `EMPLOYER_SECRET`
 - Issuer HMAC secret: `DEMO_ISSUER_SECRET`
 
-Change these in `src/main/resources/application.properties`.
+
 
 ## Endpoints
 
