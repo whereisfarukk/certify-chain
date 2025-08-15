@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea/
+
+# Maven / Gradle build folders
+target/
+build/
+
+# Other local folders
+.mvp/

@@ -1,0 +1,13 @@
+[ {
+  "index" : "0",
+  "timestamp" : "2025-08-15T15:22:37.460201600Z",
+  "previousHash" : "0",
+  "dataJson" : "{\"genesis\":true}",
+  "hash" : "ca2a11aa0716f3fbc689f8e253d307727d9027dc6fe108cd3852e31a1094fa3e"
+}, {
+  "index" : "1",
+  "timestamp" : "2025-08-15T15:36:30.604414400Z",
+  "previousHash" : "ca2a11aa0716f3fbc689f8e253d307727d9027dc6fe108cd3852e31a1094fa3e",
+  "dataJson" : "{\"studentName\":\"Alice\",\"institution\":\"SUST\",\"program\":\"CSE\",\"year\":\"2025\",\"gpa\":3.92,\"certificateId\":\"84891aaa-1a82-431e-b410-5236ed645ec8\",\"issuerSignature\":null,\"blockHash\":null}",
+  "hash" : "a9c1bb45f61bef42e0164edb8b64110c7f938d968f0dba64a27db6bc589718f8"
+} ]
